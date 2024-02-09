@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the first challenge for the class. For this challenge, we will be refactoring the existing code to improve or modify the script.
+This is the first challenge for the class. For this challenge, we will be refactoring the existing code to improve or modify the script. This will enhance the current webpage elements.
 
 ## User Story
 
